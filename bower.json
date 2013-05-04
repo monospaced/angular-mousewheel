@@ -1,6 +1,6 @@
 {
   "name": "angular-mousewheel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "mousewheel.js",
   "ignore": [
     "**/.*",
@@ -9,6 +9,6 @@
   ],
   "dependencies": {
     "angular": "~1.0.6",
-    "monospaced/hamster.js": "~1.0.1"
+    "hamsterjs": "~1.0.2"
   }
 }

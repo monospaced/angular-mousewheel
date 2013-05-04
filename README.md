@@ -25,7 +25,7 @@ The event callback receives 3 extra arguments which are the normalized “deltas
 Install
 -------
 
-    bower install monospaced/angular-mousewheel
+    bower install angular-mousewheel
 
 Include [Hamster.js](https://github.com/monospaced/hamster.js) and the `mousewheel.js` script provided by this component in your app, and add `monospaced.mousewheel` to your app’s dependencies.
 
