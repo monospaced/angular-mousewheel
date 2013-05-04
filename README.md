@@ -1,7 +1,7 @@
 Angular Mousewheel
 ==================
 
-An AngularJS directive for cross-browser mouse wheel support, using the small and standalone [Hamster.js](http://monospaced.github.io/hamster.js/) library.
+An AngularJS directive for cross-browser mouse wheel support, using the small and standalone [Hamster.js](https://github.com/monospaced/hamster.js) library.
 
 [See it in action](http://monospaced.github.io/angular-mousewheel).
 
@@ -27,7 +27,7 @@ Install
 
     bower install monospaced/angular-mousewheel
 
-Include [Hamster.js](http://monospaced.github.io/hamster.js/) and the `mousewheel.js` script provided by this component in your app, and add `monospaced.mousewheel` to your app’s dependencies.
+Include [Hamster.js](https://github.com/monospaced/hamster.js) and the `mousewheel.js` script provided by this component in your app, and add `monospaced.mousewheel` to your app’s dependencies.
 
 Demo
 ----------------
