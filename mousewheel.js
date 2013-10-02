@@ -1,5 +1,5 @@
 /*
- * angular-mousewheel v1.0.2
+ * angular-mousewheel v1.0.3
  * (c) 2013 Monospaced http://monospaced.com
  * License: MIT
  */
