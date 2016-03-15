@@ -5,14 +5,14 @@
   "main": "mousewheel.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ntinoco96/angular-mousewheel.git"
+    "url": "git+https://github.com/monospaced/angular-mousewheel.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ntinoco96/angular-mousewheel/issues"
+    "url": "https://github.com/monospaced/angular-mousewheel/issues"
   },
-  "homepage": "https://github.com/ntinoco96/angular-mousewheel#readme",
+  "homepage": "https://github.com/monospaced/angular-mousewheel#readme",
   "dependencies": {
     "angular": "^1.0.6",
     "hamsterjs": "^1.0.2"
