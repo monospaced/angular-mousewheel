@@ -1,5 +1,9 @@
-Angular Mousewheel
+[DEPRECATED] Angular Mousewheel
 ==================
+
+**Since [AngularJS support has been discontinued](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a) this package is deprecated and no longer maintained.**
+
+---
 
 An AngularJS directive for cross-browser mouse wheel support, using the small and standalone [Hamster.js](https://github.com/monospaced/hamster.js) library.
 
